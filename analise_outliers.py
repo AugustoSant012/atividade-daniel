@@ -64,3 +64,5 @@ if num_clusters > 1:
     print(f"Silhouette Score: {sil_score:.2f}")
 else:
     print("Silhouette Score não calculado (menos de 2 clusters).")
+
+    
